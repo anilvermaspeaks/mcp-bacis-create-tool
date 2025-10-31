@@ -47,3 +47,6 @@ Add this JSON snippet:
     }
   }
 }
+
+## run MCP server(main.py) using custom mcp client(client.py)
+  uv run python client.py
